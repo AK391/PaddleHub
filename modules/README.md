@@ -57,7 +57,7 @@ English | [简体中文](README_ch.md)
 |[mobilenet_v2_imagenet](image/classification/mobilenet_v2_imagenet)|Mobilenet_v2|ImageNet-2012|| [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/PaddlePaddle/mobilenet_v2_imagenet) |
 |[resnet50_vd_10w](image/classification/resnet50_vd_10w)|ResNet_vd|百度自建数据集||
 |[resnet_v2_101_imagenet](image/classification/resnet_v2_101_imagenet)|ResNet V2 101|ImageNet-2012|| [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/PaddlePaddle/resnet_v2_101_imagenet) |
-|[darknet53_imagenet](image/classification/darknet53_imagenet)|DarkNet|ImageNet-2012||
+|[darknet53_imagenet](image/classification/darknet53_imagenet)|DarkNet|ImageNet-2012|| [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/PaddlePaddle/darknet53_imagenet) |
 |[se_resnext50_32x4d_imagenet](image/classification/se_resnext50_32x4d_imagenet)|SE_ResNeXt|ImageNet-2012||
 |[se_hrnet64_imagenet_ssld](image/classification/se_hrnet64_imagenet_ssld)|HRNet|ImageNet-2012||
 |[resnext101_32x16d_wsl](image/classification/resnext101_32x16d_wsl)|ResNeXt_wsl|ImageNet-2012||
